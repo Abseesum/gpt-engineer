@@ -45,6 +45,6 @@ Each step in `steps.py` will have its communication history with GPT4 stored in 
 If you want to contribute, please check out the [projects](https://github.com/AntonOsika/gpt-engineer/projects?query=is%3Aopen) or [issues tab](https://github.com/AntonOsika/gpt-engineer/issues) in the GitHub repo and please read the [contributing document](.github/CONTRIBUTING.md) on how to contribute.
 
 
-## High resolution example
+## High resolution exampleOxgW7RsyQ67VYorGB7DcGRgAv0vzut+60IqYtkSlXhERAamgUm38ZlG4X5e6E/4D
 
 https://github.com/AntonOsika/gpt-engineer/assets/4467025/6e362e45-4a94-4b0d-973d-393a31d92d9b
